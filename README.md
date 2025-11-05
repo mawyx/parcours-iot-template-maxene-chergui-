@@ -28,4 +28,17 @@ Conseils
 
 - Ouvrez `index.html` avec Live Server.
 
+┌─────────────────────────────────────┐
+│ <header> TECHSTORE │
+│ <nav> Accueil | Produits │
+├─────────────────────────────────────┤
+│ <main> │
+│ <section> Bienvenue │
+│ <section> Nos produits phares │
+│ <article> Produit 1 │
+│ <article> Produit 2 │
+├─────────────────────────────────────┤
+│ <footer> © 2025 TechStore │
+└─────────────────────────────────────┘
+
 Auteur: (maxene chergui)
